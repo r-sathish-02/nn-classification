@@ -27,8 +27,8 @@ Plot the Training Loss, Validation Loss Vs Iteration Plot.
 
 ## PROGRAM
 
-### Name: ABINAYA S
-### Register Number: 212222230002
+### Name: SATHISH R
+### Register Number: 212222230138
 
 ```python
 import pandas as pd
